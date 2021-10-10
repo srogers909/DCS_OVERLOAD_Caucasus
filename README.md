@@ -1,6 +1,6 @@
 # Training Mission "OVERLOAD"
 
-A basic mission that launches multiple groups of enemies around Caucasus Map for DCS (Digital Combat Simulator).
+A basic mission that launches multiple groups of enemies around Caucasus Map for DCS ([Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/)).
 ## Mission Attributes
 - Destroying a group of planes will trigger a respawn of another group.
 - An AWACS is available for supporting coalition planes.
