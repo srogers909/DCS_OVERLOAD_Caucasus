@@ -15,9 +15,9 @@ A basic mission that launches multiple groups of enemies around Caucasus Map for
 - [F-14 Tomcat](https://www.digitalcombatsimulator.com/en/products/planes/tomcat/)
 - [F-5E Tiger II](https://www.digitalcombatsimulator.com/en/products/planes/tiger/)
 - [F-16C Fighting Falcon "Viper"](https://www.digitalcombatsimulator.com/en/products/planes/viper/)
-- [F-15C Eagle](https://www.digitalcombatsimulator.com/en/products/planes/eagle_fc/) - Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)
 - [F-86F Sabre](https://www.digitalcombatsimulator.com/en/products/planes/sabre/)
-- [Su-33](https://www.digitalcombatsimulator.com/en/products/planes/su-33_fc/) - Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)
-- [Su-27 "Flanker"](https://www.digitalcombatsimulator.com/en/products/planes/flanker_fc/) - Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)
 - [M-2000C "Mirage"](https://www.digitalcombatsimulator.com/en/shop/modules/m2000c/)
 - [A-4E Community](https://heclak.github.io/community-a4e-c/)
+- [F-15C Eagle](https://www.digitalcombatsimulator.com/en/products/planes/eagle_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
+- [Su-33](https://www.digitalcombatsimulator.com/en/products/planes/su-33_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
+- [Su-27 "Flanker"](https://www.digitalcombatsimulator.com/en/products/planes/flanker_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
