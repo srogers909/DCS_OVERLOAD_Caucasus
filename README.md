@@ -1,4 +1,4 @@
-# Training Mission "OVERLOAD"
+# Training Mission "OVERLOAD" - Caucasus
 
 A basic mission that launches multiple groups of enemies around Caucasus Map for DCS ([Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/)).
 ## Mission Attributes
