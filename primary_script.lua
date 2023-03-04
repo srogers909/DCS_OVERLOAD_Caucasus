@@ -25,6 +25,14 @@ local PlaneTable = {
 	"Opp-J11A"
 }
 
+local VehicleTable = {
+	"Opp-Vehicles",
+	"Opp-Vehicles-1",
+	"Opp-Vehicles-2",
+	"Opp-Vehicles-3",
+	"Opp-Vehicles-4",
+}
+
 local ZoneTable = { 
 	ZONE:New("Zone-1"), 
 	ZONE:New("Zone-2"),
@@ -33,6 +41,13 @@ local ZoneTable = {
 	ZONE:New("Zone-5"),
 	ZONE:New("Zone-6"),
 	ZONE:New("Zone-7")
+}
+
+local VehicleZoneTable = {
+	ZONE:New("Vehicle-Zone-1"),
+	ZONE:New("Vehicle-Zone-2"),
+	ZONE:New("Vehicle-Zone-3"),
+	ZONE:New("Vehicle-Zone-4"),
 }
 
 SPAWN:New("Opp-Plane")
@@ -44,3 +59,12 @@ SPAWN:New("Opp-Plane")
 	:InitSkill("Random")
 	:InitRepeatOnLanding()
 	:SpawnScheduled(30, 0.5)
+
+SPAWN:New("Opp-Vehicles")
+	:InitKeepUnitNames(false)
+	:InitLimit(4, 200)	
+	:InitRandomizeRoute(0, 1, 9, 5000)
+	:InitRandomizeTemplate(VehicleTable)
+	:InitRandomizeZones(VehicleZoneTable)
+	:InitSkill("Random")
+	:SpawnScheduled(120, 0.5)
